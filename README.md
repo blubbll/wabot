@@ -1,1 +1,1 @@
-# wabot
+Whatsapp web bot using [Puppeteer](https://github.com/GoogleChrome/puppeteer)
